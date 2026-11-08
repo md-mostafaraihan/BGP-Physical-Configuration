@@ -1,0 +1,4 @@
+Nov 07 19:38:47.168 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Nov 07 19:38:47.169 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 19264.
+Nov 07 19:38:47.382 HYPERVISOR: Stopped.
+Nov 07 19:38:47.382 GENERAL: reset done.
